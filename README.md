@@ -9,5 +9,4 @@ cd && git clone https://github.com/BuildAPKs/buildAPKs
 ./buildAPKs/scripts/build/buildApps.bash
 
 ```
-
-#OEF
+<!-- README.md EOF -->
